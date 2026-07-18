@@ -1,3 +1,4 @@
+ alert("Script berjalan");  
 const imageInput = document.getElementById("imageInput");
 const preview = document.getElementById("preview");
 const output = document.getElementById("output");
