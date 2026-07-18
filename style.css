@@ -63,7 +63,7 @@ button:hover{
 }
 
 #preview img{
-        max-width:100%;
+        max: width 280px;
             border-radius:12px;
             height: auto;
               display: block;
