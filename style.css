@@ -65,6 +65,8 @@ button:hover{
 #preview img{
         max-width:280px;
             border-radius:12px;
+            height: auto;
+              display: block;
 }
 
 #result{
